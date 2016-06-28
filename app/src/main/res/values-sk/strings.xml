@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Makač</string>
+    <string name="action_settings">Nastavenia</string>
+    <string name="duration">Dĺžka</string>
+    <string name="time">00:00:00</string>
+    <string name="distance_text">Vzdialenosť</string>
+    <string name="distance">0.00</string>
+    <string name="distance_unit">km</string>
+    <string name="paceText">Rýchlosť</string>
+    <string name="pace">0.00</string>
+    <string name="pace_unit">m/s</string>
+    <string name="start">Štart</string>
+    <string name="pause">Pozastaviť</string>
+    <string name="resume">Pokračovať</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Zastaviť</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_button">Maps</string>
+    <string name="synchronize">Synchronizovať</string>
+    <string name="title_activity_main">Hlavna Aktivita</string>
+    <string name="tracker_title">Tracker</string>
+    <string name="summary_title">Zhrnutie</string>
+    <string name="upload">Nahrať</string>
+    <string name="share">Zdieľať</string>
+    <string name="makac">Makač</string>
+    <string name="achivements">Úspechy</string>
+    <string name="womb">Svet Makača</string>
+    <string name="entry">Minule Behy</string>
+    <string name="send">Poslať</string>
+    <string name="credist">By Erik Timko</string>
+</resources>
